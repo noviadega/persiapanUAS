@@ -33,7 +33,7 @@
     <div id="app">
         <nav class="navbar navbar-dark bg-dark">
             <div class="container">
-            <a class="navbar-brand" href="#" color="gray">Toko Online Sariungan</a>
+            <a class="navbar-brand" href="#" color="gray">Toko Online </a>
                     
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav mr-auto">
